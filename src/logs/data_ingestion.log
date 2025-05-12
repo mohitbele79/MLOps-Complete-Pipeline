@@ -1,0 +1,8 @@
+2025-05-12 16:15:21,921 - data_ingestion - ERROR - File not found: params.yaml
+2025-05-12 16:15:21,922 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-05-12 16:52:21,127 - data_ingestion - ERROR - File not found: params.yaml
+2025-05-12 16:52:21,128 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-05-12 16:55:54,989 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-05-12 16:55:55,842 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-05-12 16:55:55,851 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-12 16:55:55,871 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
