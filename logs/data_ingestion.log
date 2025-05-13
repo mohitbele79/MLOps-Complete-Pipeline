@@ -2,3 +2,14 @@
 2025-05-13 14:16:03,706 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
 2025-05-13 14:16:03,720 - data_ingestion - DEBUG - Data preprocessing completed
 2025-05-13 14:16:03,768 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-05-13 15:39:16,322 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-05-13 15:39:17,372 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-05-13 15:39:17,383 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-13 15:39:17,403 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-05-13 15:48:52,740 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-05-13 15:48:53,151 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2025-05-13 15:48:53,152 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2025-05-13 15:51:52,095 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-05-13 15:52:15,704 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-05-13 15:52:15,719 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-13 15:52:15,742 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
